@@ -12,6 +12,3 @@ class Solution:
                 word = ''
 
         return reverse_word[1:]
-
-s = 'tillo gang'
-print(s.split())
